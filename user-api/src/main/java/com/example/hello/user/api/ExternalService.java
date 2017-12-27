@@ -20,4 +20,3 @@ public interface ExternalService extends Service {
     }
 
 }
-
