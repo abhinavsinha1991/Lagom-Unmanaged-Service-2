@@ -1,0 +1,2 @@
+[2017-11-02 15:25:26,764] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker akshay-Vostro-15-3568:9092 (id: 0 rack: null) (state.change.logger)
+[2017-11-02 15:57:31,186] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker akshay-Vostro-15-3568:9092 (id: 0 rack: null) (state.change.logger)

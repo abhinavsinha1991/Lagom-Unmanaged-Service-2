@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a1cee2-1932-43b1-9868-f381b51fb16e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/integration-tests/target/" />
+    <ignored path="$PROJECT_DIR$/stream-api/target/" />
+    <ignored path="$PROJECT_DIR$/stream-impl/target/" />
+    <ignored path="$PROJECT_DIR$/hello-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cassandra-config/target/" />
+    <ignored path="$PROJECT_DIR$/hello-impl/target/" />
+    <ignored path="$PROJECT_DIR$/welcome-api/target/" />
+    <ignored path="$PROJECT_DIR$/welcome-impl/target/" />
+    <ignored path="$PROJECT_DIR$/world-impl/target/" />
+    <ignored path="$PROJECT_DIR$/world-api/target/" />
+    <ignored path="$PROJECT_DIR$/user-impl/target/" />
+    <ignored path="$PROJECT_DIR$/user-api/target/" />
+    <ignored path="$PROJECT_DIR$/user-external/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-first-program" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserServiceImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/UnitTest/UserServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExternalService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/ExternalService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserResponse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/models/UserResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImplCompTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/UserServiceImplCompTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/mapper/ResponseMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="54" column="74" lean-forward="false" selection-start-line="54" selection-start-column="74" selection-end-line="54" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hello</find>
+      <find>cassandra</find>
+      <find>stream</find>
+      <find>configuration</find>
+      <find>welcome</find>
+      <find>readV</find>
+      <find>unma</find>
+      <find>user</find>
+      <find>te</find>
+      <find>test</find>
+      <find>Object</find>
+      <find>unit</find>
+      <find>jun</find>
+      <find>setUp</find>
+      <find>ret</find>
+      <find>assertnull</find>
+      <find>bank</find>
+      <find>getValue</find>
+      <find>retr</find>
+      <find>testBank</find>
+      <find>new</find>
+      <find>bankUsage</find>
+      <find>init</find>
+      <find>value2</find>
+      <find>name</find>
+      <find>jmoc</find>
+      <find>userserviceimpl</find>
+      <find>local</find>
+      <find>unmana</find>
+      <find>mock</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/user-external/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/services/ExtractServiceTest.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/user-external/src/test/com/example/hello/user/services/ExternalServiceTest.java" />
+        <option value="$PROJECT_DIR$/hello-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/BankUsage.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/DBManager.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/DBManagerTest.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/Bank.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/services/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/UnitTest/UserServiceImplUnitTest.java" />
+        <option value="$PROJECT_DIR$/user-external/pom.xml" />
+        <option value="$PROJECT_DIR$/user-external/src/test/com/example/hello/user/services/ExtractServiceTest.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/services/ExtractService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/BankTest.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/user/data/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/user/data/ExtractService.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/user/data/UserDataFacade.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/models/info/UserDataFacade.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/UserDataFacade.java" />
+        <option value="$PROJECT_DIR$/user-external/src/test/com/example/hello/user/user/data/UserDataFacadeTest.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/info/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/info/UserDataFacade.java" />
+        <option value="$PROJECT_DIR$/user-external/src/test/com/example/hello/user/external/info/UserDataFacadeTest.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/main/java/com/example/hello/stream/api/StreamService.java" />
+        <option value="$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/models/UserData.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/info/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/external/info/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/external/info/UserResponse.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/external/info/UserDataFacade.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserResponse.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/models/UserData.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/user-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/models/UserResponse.java" />
+        <option value="$PROJECT_DIR$/user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/models/UserResponse.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/api/UserService.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/models/UserResponse.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/UserService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/UnitTest/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/ExternalService.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserModule.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/ExternalStub.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/mapper/ResponseMapper.java" />
+        <option value="$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/UserServiceImplCompTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-impl" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-impl" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="34" />
+    <option name="width" value="1299" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lagom-Unmanaged-Service-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lagom-Unmanaged-Service-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="persistent&#9;null&#9;null&#10;persiste&#9;FILE&#9;jar:///home/akshay/.m2/repository/com/lightbend/lagom/lagom-javadsl-persistence_2.11/1.1.0/lagom-javadsl-persistence_2.11-1.1.0.jar!/com/lightbend/lagom/javadsl/persistence/PersistentEntityRegistry.class&#10;build&#9;PSI&#9;JAVA://play.core.Build&#10;StreamModule&#9;FILE&#9;file:///home/akshay/IdeaProjects/lagom-java/my-first-program/stream-impl/src/main/java/com/example/hello/stream/impl/StreamModule.java&#10;streamModule&#9;PSI&#9;JAVA://com.example.hello.stream.impl.StreamModule&#10;application.conf&#9;FILE&#9;file:///home/akshay/IdeaProjects/lagom-java/my-first-program/stream-impl/src/main/resources/application.conf&#10;application.co&#9;FILE&#9;file:///home/akshay/IdeaProjects/lagom-java/my-first-program/hello-impl/src/main/resources/application.conf" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-172.3544.35" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.hello.user.user.data" />
+      <recent name="com.example.hello.user.services" />
+      <recent name="com.example.hello.user.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.hello.user.models" />
+      <recent name="com.example.hello.user.external.info" />
+      <recent name="com.example.hello.user.user.data" />
+      <recent name="com.example.hello.user.impl.UnitTest" />
+      <recent name="com.example.hello.user.impl.ComponentTest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.hello.user.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user" />
+      <recent name="$PROJECT_DIR$/user-impl/src/main" />
+      <recent name="$PROJECT_DIR$/user-external/src/main" />
+      <recent name="$PROJECT_DIR$/user-external" />
+      <recent name="$PROJECT_DIR$/user-external/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceImplCompTest.shouldGetUserData">
+    <configuration name="ExtractServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello.user.models.info.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="user-external" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.hello.user.services" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hello.user.services.ExtractServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration name="UserServiceImplCompTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello.user.impl.ComponentTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="user-impl" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.hello.user.impl.ComponentTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hello.user.impl.ComponentTest.UserServiceImplCompTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceImplCompTest.shouldGetUserData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello.user.impl.ComponentTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="user-impl" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.hello.user.impl.ComponentTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hello.user.impl.ComponentTest.UserServiceImplCompTest" />
+      <option name="METHOD_NAME" value="shouldGetUserData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceImplTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello.user.impl.UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="user-impl" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.hello.user.impl.UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hello.user.impl.UnitTest.UserServiceImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceImplTest.helloUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello.user.impl.UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="user-impl" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.hello.user.impl.UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hello.user.impl.UnitTest.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="helloUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Plugin.Plugin" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ExtractServiceTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceImplCompTest.shouldGetUserData" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.UserServiceImplCompTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.helloUserTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.UserServiceImplCompTest.shouldGetUserData" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.helloUserTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UserServiceImplCompTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ExtractServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a1cee2-1932-43b1-9868-f381b51fb16e" name="Default" comment="" />
+      <created>1507016380455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507016380455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 10h 57m 30s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 10h 58m 29s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 11h 40m 33s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 11h 41m 59s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 11h 46m 34s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 11h 47m 16s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplCompTest_shouldGetUserData - 2017.11.03 at 11h 48m 11s.xml">
+      <configuration name="UserServiceImplCompTest.shouldGetUserData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_helloUserTest - 2017.11.02 at 18h 12m 06s.xml">
+      <configuration name="UserServiceImplTest.helloUserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_helloUserTest - 2017.11.02 at 18h 27m 41s.xml">
+      <configuration name="UserServiceImplTest.helloUserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_helloUserTest - 2017.11.03 at 11h 34m 45s.xml">
+      <configuration name="UserServiceImplTest.helloUserTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39657855" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35303265" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26294822" sideWeight="0.87906975" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46500778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3633466" sideWeight="0.12093023" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1866252" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.8/jmockit-1.8-sources.jar!/mockit/Mocked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/BankTest.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/Bank.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/BankUsage.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/DBManager.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/user/data/ExtractService.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/test/com/example/hello/user/services/ExtractServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/models/info/ExternalService.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/UserDataFacade.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/models/info/UserDataFacade.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/test/com/example/hello/user/user/data/UserDataFacadeTest.java" />
+    <entry file="file://$PROJECT_DIR$/stream-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-external/user-external.iml" />
+    <entry file="file://$PROJECT_DIR$/user-external/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/test/com/example/hello/user/external/info/UserDataFacadeTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lightbend/lagom/lagom-javadsl-testkit_2.11/1.3.6/lagom-javadsl-testkit_2.11-1.3.6-sources.jar!/com/lightbend/lagom/javadsl/testkit/ServiceTest.scala" />
+    <entry file="file://$PROJECT_DIR$/hello-impl/src/main/java/com/example/hello/hello/impl/HelloModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/main/java/com/example/hello/stream/api/StreamService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-impl/src/main/java/com/example/hello/hello/impl/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/models/UserData.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/info/ExternalService.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/external/info/UserDataFacade.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserResponse.java" />
+    <entry file="file://$PROJECT_DIR$/user-external/src/main/java/com/example/hello/user/external/info/UserDataFacade.java" />
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/models/UserResponse.java" />
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/api/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.8/jmockit-1.8-sources.jar!/mockit/internal/util/MethodReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="226" column="43" lean-forward="false" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CompletionStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="615" column="34" lean-forward="false" selection-start-line="615" selection-start-column="34" selection-end-line="615" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lightbend/lagom/lagom-javadsl-api_2.11/1.3.6/lagom-javadsl-api_2.11-1.3.6-sources.jar!/com/lightbend/lagom/javadsl/api/ServiceCall.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.8/jmockit-1.8-sources.jar!/mockit/internal/state/TestRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="61" column="60" lean-forward="false" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.8/jmockit-1.8-sources.jar!/mockit/internal/expectations/RecordAndReplayExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jmockit/jmockit/1.8/jmockit-1.8-sources.jar!/mockit/integration/junit4/internal/JUnit4TestRunnerDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/models/UserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/ExternalServiceImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lightbend/lagom/lagom-javadsl-server_2.11/1.3.6/lagom-javadsl-server_2.11-1.3.6-sources.jar!/com/lightbend/lagom/javadsl/server/ServiceGuiceSupport.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/ExternalStub.java" />
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/models/UserResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/mapper/ResponseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/java/com/example/hello/user/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="54" column="74" lean-forward="false" selection-start-line="54" selection-start-column="74" selection-end-line="54" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/ComponentTest/UserServiceImplCompTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-impl/src/main/test/com/example/hello/user/impl/UnitTest/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/example/hello/user/api/ExternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>world-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

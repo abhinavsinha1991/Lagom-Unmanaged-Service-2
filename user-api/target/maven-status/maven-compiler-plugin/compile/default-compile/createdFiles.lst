@@ -1,0 +1,4 @@
+com/example/hello/user/models/UserData.class
+com/example/hello/user/api/ExternalService.class
+com/example/hello/user/api/UserService.class
+com/example/hello/user/models/UserResponse.class
